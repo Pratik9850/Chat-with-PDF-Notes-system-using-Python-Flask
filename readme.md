@@ -55,4 +55,30 @@
    Open your browser and go to [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ## 📂 Project Structure
+├── app.py
+├── models/
+├── requirements.txt
+├── runtime.txt
+├── [PDF example files
+
+
+## 🤔 Why Use This App?
+
+- **Fast local AI chat with your PDFs**
+- **Academic, professional, and personal use**
+- **Zero data leakage: Ultimate privacy**
+- **Open source and easy to extend**
+
+## 👏 Contributing
+
+Pull requests, issues, and feature suggestions are welcome!  
+Fork, improve, and submit — let’s build better document AI tools together.
+
+---
+
+**Enjoy seamless, secure, and smart interaction with your documents!**
+
+---
+
+
 
